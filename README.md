@@ -54,3 +54,6 @@ Prerequisites
 
     pygame for music playback
     
+Installation
+
+pip install pillow pygame
