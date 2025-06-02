@@ -7,7 +7,7 @@ A modern, visually engaging Pomodoro timer built with Tkinter in Python, designe
 
 🎯 Features
 
-    Multiple Timer Modes:
+    🧠 Classic Pomodoro Modes
 
         Focus Session (25 mins)
 
@@ -15,33 +15,35 @@ A modern, visually engaging Pomodoro timer built with Tkinter in Python, designe
 
         Long Break (15 mins)
 
-    Dynamic Backgrounds:
+    🌄 Themed Visuals
 
-        Choose from scenic images like Barot Valley, Mount Fuji, Meghalaya waterfalls, and more.
+        Stunning background images (e.g. Barot Valley, Mount Fuji, Meghalaya Waterfalls)
 
-        Click the background to instantly switch themes.
+        Click the image to cycle through themes
 
-    Built-in Music Player:
+    🎵 Ambient Music Integration
 
-        Play relaxing background sounds (birds, rain, waves, lofi).
+        Built-in sounds: birds, rain, waves, dark academia, and lofi
 
-        Adjust volume or stop the music anytime.
+        Play, stop, or adjust volume
 
-        Supports custom .mp3 and .wav file selection.
+        Load your own .mp3 or .wav files
 
-    Custom Focus Titles:
+    📝 Custom Task Titles
 
-        Click the header to add/edit your current focus task.
+        Click the heading to rename your current focus task
 
-    Minimalist Toolbar:
+    🧰 Clean Toolbar with Icons
 
-        Icon-based navigation bar for quick access to music, background selection, and more.
+        Access features like alarm, music, background, checklist, and more
 
-    User-Friendly UI:
+        Visual feedback with active highlights
 
-        Flat buttons, themed tabs, and custom icons.
+    💻 Desktop-Friendly UI
 
-        Desktop-friendly layout (800×600 resolution).
+        Designed for 800×600 resolution
+
+        Responsive layout with layered widgets and modern aesthetic
 
         🚀 Getting Started
 Prerequisites
@@ -57,3 +59,43 @@ Prerequisites
 Installation
 
 pip install pillow pygame
+
+Running the App
+
+python themed_pomodoro.py
+
+🛠 Folder Structure
+
+/your-project-folder/
+├── pomodoro.py
+├── /assests/
+│   ├── Barot Valley.jpg
+│   ├── japan_mount_fuji.jpg
+│   ├── rain.mp3
+│   ├── icon_music.png
+│   └── ...
+
+
+🧠 Inspiration
+
+A beautifully designed desktop Pomodoro timer that blends focus with tranquility. Switch between scenic themes like mountains and waterfalls, play calming sounds like lofi or rain, and manage your work sessions with no sign-in required. Inspired by ambient YouTube streams and minimalist productivity tools, it helps you stay present and productive—all while enjoying peaceful visuals and music.Eady to run this application and it is totally free no signin option and not required for installation.Only run the code and study enviroment of pomodore is ready.
+
+📸 Screenshots
+
+![pomodoro application](https://github.com/user-attachments/assets/504c6dc0-f5c4-4564-adfd-28710b8cadd7)
+
+![Select background music according to you](https://github.com/user-attachments/assets/0e513177-ae12-4d40-a833-cd99f4b1097c)
+
+![Select the background image](https://github.com/user-attachments/assets/c46b2adc-6987-4521-bca3-4c969d82f0d3)
+
+![Add the focus title](https://github.com/user-attachments/assets/1daa51a9-3920-4a8a-8b90-075434408a9c)
+
+
+
+
+
+🧑‍💻 Author
+
+Abhijeet Ranjan
+
+    Building tools that merge focus, aesthetics, and productivity.
