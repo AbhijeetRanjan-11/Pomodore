@@ -1,4 +1,4 @@
-# Pormodore
+# Pomodore
 
 ⏳ Themed Pomodoro Timer
 
