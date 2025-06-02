@@ -6,6 +6,7 @@ A modern, visually engaging Pomodoro timer built with Tkinter in Python, designe
 
 
 🎯 Features
+
     Multiple Timer Modes:
 
         Focus Session (25 mins)
