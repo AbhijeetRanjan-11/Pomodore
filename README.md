@@ -1,6 +1,6 @@
 # Pomodore
 
-⏳ Themed Pomodoro Timer
+⏳ Themed Pomodore Timer
 
 A modern, visually engaging Pomodoro timer built with Tkinter in Python, designed to help you stay focused while immersed in soothing landscapes and background music.
 
@@ -78,7 +78,7 @@ python themed_pomodoro.py
 
 🧠 Inspiration
 
-A beautifully designed desktop Pomodoro timer that blends focus with tranquility. Switch between scenic themes like mountains and waterfalls, play calming sounds like lofi or rain, and manage your work sessions with no sign-in required. Inspired by ambient YouTube streams and minimalist productivity tools, it helps you stay present and productive—all while enjoying peaceful visuals and music.Eady to run this application and it is totally free no signin option and not required for installation.Only run the code and study enviroment of pomodore is ready.
+A beautifully designed desktop Pomodore timer that blends focus with tranquility. Switch between scenic themes like mountains and waterfalls, play calming sounds like lofi or rain, and manage your work sessions with no sign-in required. Inspired by ambient YouTube streams and minimalist productivity tools, it helps you stay present and productive—all while enjoying peaceful visuals and music.Eady to run this application and it is totally free no signin option and not required for installation.Only run the code and study enviroment of pomodore is ready.
 
 📸 Screenshots
 
