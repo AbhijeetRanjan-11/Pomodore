@@ -1,4 +1,4 @@
-# Pomodore
+# Pomodore - Study with me
 
 ⏳ Themed Pomodore Timer
 
