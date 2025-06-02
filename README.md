@@ -3,8 +3,9 @@
 ⏳ Themed Pomodoro Timer
 
 A modern, visually engaging Pomodoro timer built with Tkinter in Python, designed to help you stay focused while immersed in soothing landscapes and background music.
-🎯 Features
 
+
+🎯 Features
     Multiple Timer Modes:
 
         Focus Session (25 mins)
