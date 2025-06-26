@@ -3,6 +3,7 @@
 🎬 Video Background Pomodoro Timer ⏳
 
 A modern, visually engaging Pomodoro Timer application built with Python and Tkinter, featuring video background support powered by VLC. This tool helps boost productivity by combining focused work sessions with relaxing video ambiance, all while providing customizable timer modes.
+
 ✨ Features
 
 ✅ Minimalist Pomodoro Timer with 3 Modes:
